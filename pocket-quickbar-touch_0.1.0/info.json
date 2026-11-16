@@ -1,0 +1,12 @@
+{
+  "name": "pocket-quickbar-touch",
+  "version": "0.1.0",
+  "title": "Quick Bar",
+  "author": "Hinnli",
+  "homepage": "https://t.me/FactorioModLab",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1.0"
+  ],
+  "description": "An on-screen quick-access bar for playing Factorio with touch or controller controls, including Pocket Foundry on Android."
+}
